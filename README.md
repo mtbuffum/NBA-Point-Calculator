@@ -43,6 +43,10 @@ The model uses the following features to predict total points:
 ---
 Note: This Project was made for Educational Purposes and does use the Data Given by the NBA_API
 
+## Future Steps:
+-Learn how to Normalize the Data more efficiently
+-Fit a better learning model to the data
+
 ## How to Run
 
 ### 1. Install Requirements

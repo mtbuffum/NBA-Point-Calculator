@@ -1,6 +1,7 @@
 # NBA Points Prediction Using Linear Regression
 
 This project predicts an NBA player's total **points (PTS)** for the 2024-25 season based on their stats using **Linear Regression**.
+It is my first time creating a Machine Learning Model
 
 ## Project Files
 
@@ -40,6 +41,7 @@ The model uses the following features to predict total points:
 - FT_PCT (Free Throw %)
 
 ---
+Note: This Project was made for Educational Purposes and does use the Data Given by the NBA_API
 
 ## How to Run
 
@@ -47,3 +49,5 @@ The model uses the following features to predict total points:
 
 ```bash
 pip install nba_api pandas numpy scikit-learn
+
+

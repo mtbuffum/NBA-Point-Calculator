@@ -1,16 +1,16 @@
 # NBA Points Prediction Using Linear Regression
 
 This project predicts an NBA player's total **points (PTS)** for the 2024-25 season based on their stats using **Linear Regression**.
-It is my first time creating a Machine Learning Model
+It is my first time creating a Machine Learning Model.
 
 ## Project Files
 
 - **`linear_regression_manual.py`**  
-  Implements linear regression **from scratch** using NumPy. This version calculates the cost function, gradients, and performs gradient descent manually to train the model.
+  Implements linear regression **from scratch** using NumPy. This version calculates the cost function, gradients, and performs gradient descent manually to train the model. All the math in this file was learned through the help of the Machine Learning Course on Coursera by DeepLearning Ai and Stanford University.
 
 - **`linear_regression_sklearn.py`**  
   Uses **scikit-learn's** `LinearRegression` model to predict total points. This version simplifies training and prediction using the `fit()` and `predict()` methods.
-
+  
 Both scripts retrieve live NBA player data using `nba_api`.
 
 ---
